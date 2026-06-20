@@ -19,7 +19,7 @@ O e-book final entrega um panorama analítico sobre como as LLMs mitigam gargalo
 
 Os arquivos estão organizados e disponíveis nos links abaixo:
 
-*   📕 [**E-book IA_Financas**]([./exemplos/Ebook_IA_Financas.pdf](https://github.com/leandrorosa-n/lab-natty-or-not/blob/main/Ebook_IA_Financas.pdf) - Para leitura rápida direto no GitHub e para download
+*   📕 [**E-book IA_Financas**](https://github.com/leandrorosa-n/lab-natty-or-not/blob/main/Ebook_IA_Financas.pdf) - Para leitura rápida direto no GitHub e para download
 *   📊 [**Imagem Finanças**]([./exemplos/Imagem%20Finanças.png](https://github.com/leandrorosa-n/lab-natty-or-not/blob/main/Imagem%20Finan%C3%A7as.png) - Visualização de cenário
 
 ---

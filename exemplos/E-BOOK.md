@@ -1,20 +1,29 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# A Inteligência Artificial Generativa no Setor Financeiro 📈🤖
 
-## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este repositório contém o material de um e-book focado no impacto, aplicações práticas e ganhos de produtividade gerados pela adoção de IA Generativa no mercado financeiro corporativo.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+---
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+## 🧐 Processo de Desenvolvimento
 
-## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O projeto foi estruturado utilizando uma abordagem de cocriação com ferramentas de inteligência artificial e edição de código aberto, dividida em três etapas principais:
 
-[LINK PARA O E-BOOK AQUI]()
+*   **Curadoria e Refinamento de Conteúdo:** Utilização de modelos de linguagem (**ChatGPT**) para a estruturação lógica dos capítulos, validação de conceitos de *Prompt Engineering* (como *Few-Shot Prompting*) e revisão da densidade técnica do texto.
+*   **Identidade Visual:** Geração de ativos visuais e conceituais otimizados através da ferramenta **Gemini**, buscando uma estética sóbria e alinhada ao ecossistema corporativo de finanças.
 
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+---
+
+## 🚀 Resultados e Arquivos
+
+O e-book final entrega um panorama analítico sobre como as LLMs mitigam gargalos de compliance, auditoria e due diligence, acompanhado de métricas de impacto operacional antes e depois da implementação.
+
+Os arquivos estão organizados e disponíveis nos links abaixo:
+
+*   📕 [**E-book IA_Financas**](./exemplos/Ebook_IA_Financas.pdf) - Para leitura rápida direto no GitHub e para download
+*   📊 [**Imagem Finanças**](./exemplos/Imagem%20Finanças.png) - Visualização de cenário
+
+---
+
+## 💭 Reflexão Estratégica
+
+A construção deste material evidenciou que a Inteligência Artificial Generativa superou o estágio de mera automação de tarefas simples (RPA). No setor financeiro, ela atua como uma camada vertical de inteligência interpretativa, capaz de processar grandes volumes de dados não estruturados. O maior insight do projeto é que o diferencial competitivo não reside apenas na tecnologia em si, mas na maturidade da engenharia de prompts aplicada para extrair dados com acurácia zero-erro.

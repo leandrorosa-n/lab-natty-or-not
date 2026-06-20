@@ -2,7 +2,7 @@
 
 ### Template
 
-```markdown
+
 🤖 IA Generativa Aplicada ao Setor Financeiro
 
 📖 Sobre o Projeto
@@ -21,7 +21,7 @@ Explorar ganhos de produtividade e eficiência operacional;
 Apresentar casos de uso para análise financeira e geração de insights;
 Evidenciar o potencial da IA como copiloto estratégico para equipes financeiras.
 
-🚀 Principais Aplicações da IA em Finanças
+## Principais Aplicações da IA em Finanças:
 ✅ Geração automática de relatórios financeiros
 ✅ Resumo de demonstrações contábeis
 ✅ Análise de indicadores e KPIs
@@ -38,9 +38,9 @@ Evidenciar o potencial da IA como copiloto estratégico para equipes financeiras
 - Inteligência Artificial Generativa
 
 🧠 Processo de Criação
-Prompt para Geração do Conteúdo
 
-Crie um eBook de 5 páginas explicando como as IAs Generativas estão revolucionando o setor financeiro.
+## Prompt para Geração do Conteúdo
+### Crie um eBook de 5 páginas explicando como as IAs Generativas estão revolucionando o setor financeiro.
 Aborde:
 - Principais desafios do setor
 - Aplicações práticas da IA
@@ -48,12 +48,11 @@ Aborde:
 - Ganhos de produtividade
 - Técnicas utilizadas
 - Gráfico comparativo de resultados antes e depois da adoção da IA
-
 Utilize linguagem profissional e acessível.
 
 
-Prompt para Geração da Imagem
-Crie uma ilustração moderna e futurista representando a colaboração entre profissionais de
+## Prompt para Geração da Imagem
+### Crie uma ilustração moderna e futurista representando a colaboração entre profissionais de
 finanças e Inteligência Artificial Generativa.
 
 A imagem deve transmitir:
@@ -62,7 +61,6 @@ A imagem deve transmitir:
 - Eficiência operacional
 - Transformação digital
 - Ambiente corporativo financeiro
-
 Utilize elementos visuais relacionados a dashboards, gráficos, dados e tecnologia.
 
 📊 Resultados Obtidos

@@ -1,51 +1,104 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+🤖 IA Generativa Aplicada ao Setor Financeiro
 
-## 📒 Descrição
-Breve descrição do seu projeto
+📖 Sobre o Projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Este projeto demonstra como a Inteligência Artificial Generativa pode transformar as atividades do
+setor financeiro, reduzindo o tempo gasto em tarefas operacionais, aumentando a produtividade e
+apoiando a tomada de decisões baseada em dados.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Por meio da utilização de ferramentas de IA Generativa, foi desenvolvido um eBook demonstrando
+aplicações práticas da tecnologia em rotinas financeiras, incluindo automação de análises, geração de
+relatórios, interpretação de indicadores e suporte estratégico para profissionais da área.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+🎯 Objetivos
+Demonstrar aplicações reais de IA Generativa em Finanças;
+Explorar ganhos de produtividade e eficiência operacional;
+Apresentar casos de uso para análise financeira e geração de insights;
+Evidenciar o potencial da IA como copiloto estratégico para equipes financeiras.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+🚀 Principais Aplicações da IA em Finanças
+✅ Geração automática de relatórios financeiros
+✅ Resumo de demonstrações contábeis
+✅ Análise de indicadores e KPIs
+✅ Interpretação de dados financeiros complexos
+✅ Apoio em projeções e cenários financeiros
+✅ Automatização de tarefas repetitivas
+✅ Criação de apresentações executivas
+✅ Extração de insights para tomada de decisão
 
-### Exemplos e Insigths
+🛠️ Tecnologias Utilizadas
+- ChatGPT
+- Gemini
+- Engenharia de Prompt (Prompt Engineering)
+- Inteligência Artificial Generativa
 
+🧠 Processo de Criação
+Prompt para Geração do Conteúdo
+
+Crie um eBook de 5 páginas explicando como as IAs Generativas estão revolucionando o setor financeiro.
+Aborde:
+- Principais desafios do setor
+- Aplicações práticas da IA
+- Casos de uso reais
+- Ganhos de produtividade
+- Técnicas utilizadas
+- Gráfico comparativo de resultados antes e depois da adoção da IA
+
+Utilize linguagem profissional e acessível.
+
+
+Prompt para Geração da Imagem
+Crie uma ilustração moderna e futurista representando a colaboração entre profissionais de
+finanças e Inteligência Artificial Generativa.
+
+A imagem deve transmitir:
+- Automação
+- Análise de dados
+- Eficiência operacional
+- Transformação digital
+- Ambiente corporativo financeiro
+
+Utilize elementos visuais relacionados a dashboards, gráficos, dados e tecnologia.
+
+📊 Resultados Obtidos
+A utilização da IA Generativa permitiu criar um material completo em poucos minutos, consolidando
+informações relevantes sobre o impacto da tecnologia no setor financeiro.
+
+
+## 📊 Benefícios Identificados
+
+| Atividade | Processo Tradicional | Com IA Generativa |
+|------------|---------------------|-------------------|
+| Criação de Relatórios | 4 horas | 30 minutos |
+| Análise de Indicadores | 2 horas | 15 minutos |
+| Produção de Apresentações | 3 horas | 20 minutos |
+| Pesquisa de Cenários | 2 horas | 10 minutos |
+
+### 🎯 Impactos Observados
+
+- ⏱️ Redução significativa do tempo gasto em tarefas operacionais;
+- 📈 Aumento da produtividade das equipes financeiras;
+- 🧠 Maior capacidade de análise e geração de insights;
+- 🚀 Agilidade na tomada de decisões estratégicas;
+- 🤖 Utilização da IA como copiloto para atividades analíticas e executivas.
+
+
+📷 Evidências
 - [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
+Inserir aqui imagens ou PDF do eBook produzido.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Arte Criada com IA
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Inserir aqui a imagem gerada representando a aplicação da IA Generativa em Finanças.
+
+💡 Insights e Aprendizados
+A IA Generativa não substitui o conhecimento técnico dos profissionais de finanças, mas potencializa sua capacidade analítica e estratégica.
+O maior diferencial está na combinação entre expertise humana e inteligência artificial, permitindo que atividades operacionais sejam reduzidas para
+que o profissional concentre seus esforços em análises de maior valor agregado.
+
